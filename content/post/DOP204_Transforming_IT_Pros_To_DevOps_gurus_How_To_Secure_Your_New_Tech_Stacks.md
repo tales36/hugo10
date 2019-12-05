@@ -1,6 +1,7 @@
 ---
 title: "DOP204_Transforming_IT_Pros_To_DevOps_gurus_How_To_Secure_Your_New_Tech_Stacks"
 date: 2019-12-04T09:53:56+09:00
+author: "katsutoshi miyata"
 tags: ["勉強系","AWS re:invent2019"]
 ---
 

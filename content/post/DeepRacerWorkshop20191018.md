@@ -1,6 +1,7 @@
 ---
 title: "DeepRacerWorkshop"
 date: 2019-10-18T15:50:01+09:00
+author: "katsutoshi miyata"
 tags: ["勉強系"]
 ---
 
