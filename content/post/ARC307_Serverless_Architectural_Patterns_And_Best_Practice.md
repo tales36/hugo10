@@ -23,7 +23,7 @@ tags: ["勉強系","AWS re:invent2019"]
 まさかの1日目の空港アプリがここでも登場。
 Amplifyっていう良いのがあってね～という話で、以下ほぼ一緒だったんで気になる人は以下リンク飛んでください。
 
-[link](../../post/MOB308_Production Grade_full Stack_apps_with_AWS_Amplify.md)
+[MOB308_Production_Grade_full_Stack_apps_with_AWS_Amplify](https://days.19900119.xyz/post/MOB308_Production_Grade_full_Stack_apps_with_AWS_Amplify/)
 
 ## ■素材リンク集
 [Realworld-Serverless-Application](https://github.com/awslabs/realworld-serverless-application)
