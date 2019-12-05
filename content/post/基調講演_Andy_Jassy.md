@@ -2,8 +2,7 @@
 title: "基調講演_Andy_Jassy"
 date: 2019-12-04T03:49:23+09:00
 author: "katsutoshi miyata"
-tags: ["勉強系"]
-tags: ["AWS re:invent2019"]
+tags: ["勉強系","AWS re:invent2019"]
 ---
 
 ## ■今回のAWS re:inventについて
@@ -15,7 +14,7 @@ tags: ["AWS re:invent2019"]
 クラウド利用者の3%のうち、47.80%がAWSで15%がMS、アリババが7.7％、Googleが5%
 
 相変わらずAWSが一強なのは想定通りとして、アリババがGCP抜かしてるの草  
-やはり、トップメタを負うのが板。
+やはり、トップメタを追うのが板。
 
 ## ■EC2関連の新しいサービス
 ### ◆M6g、R6g、C6gファミリー

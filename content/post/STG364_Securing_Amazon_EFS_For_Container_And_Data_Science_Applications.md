@@ -1,8 +1,7 @@
 ---
 title: "STG364_Securing_Amazon_EFS_For_Container_And_Data_Science_Applications"
 date: 2019-12-04T14:09:28+09:00
-tags: ["勉強系"]
-tags: ["AWS re:invent2019"]
+tags: ["勉強系","AWS re:invent2019"]
 ---
 
 ## ■なぜEFSを使う？
