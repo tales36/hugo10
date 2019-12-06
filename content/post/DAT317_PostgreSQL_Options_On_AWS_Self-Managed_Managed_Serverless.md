@@ -3,6 +3,7 @@ title: "DAT317_PostgreSQL_Options_On_AWS_Self Managed_Managed_Serverless"
 date: 2019-12-03T12:17:31+09:00
 author: "katsutoshi miyata"
 tags: ["勉強系","AWS re:invent2019"]
+cover: ../../img/awsreinvent2019.jpg
 ---
 
 ## ■概要
