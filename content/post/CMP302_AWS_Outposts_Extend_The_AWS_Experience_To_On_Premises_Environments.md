@@ -8,7 +8,7 @@ cover: ../../img/awsreinvent2019.jpg
 
 ## ■AWS Outpostsとは
 ### ◆これを送りつけます。
-<img src="../../img/IMG_4720.JPG" width="300" height="500">
+![outpost](../../img/IMG_4720.JPG)    
 
 ## ■AWSをオンプレミスに持っていこう
 ### ◆Outposts Rack
